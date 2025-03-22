@@ -1,6 +1,7 @@
 {
   "origins": [
     "https://www.abdelkarimain.me",
-    "https://abdelkarimain.vercel.app"
+    "https://abdelkarimain.vercel.app",
+    "http://localhost:3000"
   ]
 }
